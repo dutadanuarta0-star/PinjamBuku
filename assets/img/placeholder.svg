@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-label="Cover buku belum tersedia">
+	<rect width="600" height="800" fill="#e2e8f0"/>
+	<rect x="150" y="230" width="300" height="340" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="6"/>
+	<rect x="150" y="230" width="34" height="340" rx="10" fill="#0ea5e9"/>
+	<path d="M230 340h150M230 400h150M230 460h100" stroke="#94a3b8" stroke-width="16" stroke-linecap="round"/>
+	<text x="300" y="660" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#64748b">Cover belum tersedia</text>
+</svg>
